@@ -1,0 +1,51 @@
+
+
+//public class questions {
+//    public static void main(String[] args) {
+//        System.out.println("good morning");
+//    }
+//}
+
+//public class questions {
+//    public static void main(String[] args) {
+//        System.out.println("*");
+//        System.out.println("* *");
+//        System.out.println("* * *");
+//        System.out.println("* * * *");
+//        System.out.println("* * * * *");
+//    }
+//}
+
+//public class questions {
+//    public static void main(String[] args) {
+//        System.out.println("* * * * *");
+//        System.out.println("* * * * ");
+//        System.out.println("* * *");
+//        System.out.println("* *");
+//        System.out.println("*");
+//    }
+//}
+
+//public class questions {
+//    public static void main(String[] args) {
+//        System.out.println("           *");
+//        System.out.println("         * *");
+//        System.out.println("       * * *");
+//        System.out.println("     * * * *");
+//        System.out.println("   * * * * *");
+//    }
+//}
+
+//public class questions {
+//    public static void main(String[] args) {
+//        int MyNumber = 0;
+//        System.out.println(MyNumber);
+//        int YourNumber;
+//        YourNumber=MyNumber;
+//        System.out.println(YourNumber);
+//        int TheyNumber;
+//        TheyNumber=990;
+//        System.out.println(TheyNumber);
+//
+//    }
+//}
