@@ -1,0 +1,62 @@
+import java.util.Scanner;
+//public class operators {
+//    public static void main(String[] args) {
+//        Scanner sc = new Scanner(System.in);
+//        System.out.print("Please enter a number: ");
+//        int num = sc.nextInt();
+//        System.out.print("Please enter second number: ");
+//        int num2 = sc.nextInt();
+//        int sum = num + num2;
+//        System.out.println("The sum is: " + sum);
+//        int sub = num - num2;
+//        System.out.println("The subtraction is: " + sub);
+//        int mul = num * num2;
+//        System.out.println("The multiplication is: " + mul);
+//        int div = num / num2;
+//        System.out.println("The division is: " + div);
+//        int mod = num % num2;
+//        System.out.println("The remainder is: " + mod);
+//
+//    }
+//}
+
+//public class operators {
+//    public static void main(String[] args) {
+//        Scanner sc = new Scanner(System.in);
+//        System.out.print("enter a floating point number: ");
+//        float num = sc.nextFloat();
+//        System.out.print("enter a second floating point number: ");
+//        float num2 = sc.nextFloat();
+//        float num3 = num - num2;
+//        System.out.println("the product of two floating point numbers is: " + num3);
+//    }
+//}
+
+//public class operators {
+//    public static void main(String[] args) {
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println("first perimeter of a rectangle A : ");
+//        int a = sc.nextInt();
+//        System.out.println("second perimeter of a rectangle B : ");
+//        int b = sc.nextInt();
+//        System.out.println("3rd perimeter of a rectangle C : ");
+//        int c = sc.nextInt();
+//        System.out.println("4th perimeter of a rectangle D : ");
+//        int d = sc.nextInt();
+//        int perimeter = a + b + c + d;
+//        System.out.println("perimeter is " + perimeter);
+//    }
+//}
+//public class operators {
+//    public static void main(String[] args) {
+//        Scanner sc = new Scanner(System.in);
+//        System.out.print("length of trangle : ");
+//        int length = sc.nextInt();
+//        System.out.print("width of trangle : ");
+//        int width = sc.nextInt();
+//        double area = 0.5 * length * width;
+//        System.out.print("height of trangle : "+ area);
+//
+//    }
+//}
+
