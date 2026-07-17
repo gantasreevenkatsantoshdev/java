@@ -60,3 +60,51 @@ import java.util.Scanner;
 //    }
 //}
 
+
+///class car
+
+public class car {
+    //public static void main(String[] args) {
+        int noOfWheels;
+       String color;
+       float maxSpeed;
+       float currentFuelInLiters;
+       float currentFuelOutLiters;
+        public car start(){
+            if (currentFuelInLiters==0){
+                System.out.println("No fuel available!, can't start!!");
+            } else if (currentFuelInLiters<5) {
+                System.out.println("Fuel available! but have to refuel");
+            }else {
+                System.out.println("car is started");
+            }
+            return this;
+        }
+       public void drive(){
+           currentFuelInLiters --;
+           System.out.println("car is driving");
+
+        }
+        public void addFual(float fual){
+            currentFuelInLiters +=fual;
+        }
+        public float currentFuelInLevel(){
+           return currentFuelInLiters;
+
+    }
+
+}
+
+///class driver
+void main(String[] args) {
+    car buggati = new car();
+    buggati.addFual(8);
+   car startedcar= buggati.start();
+   startedcar.drive();
+    System.out.println();
+    System.out.println(startedcar.currentFuelInLevel());
+    startedcar.drive();
+    System.out.println(startedcar.currentFuelInLevel());
+}
+
+
